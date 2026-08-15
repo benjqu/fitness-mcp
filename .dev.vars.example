@@ -1,6 +1,0 @@
-ALLOWED_GITHUB_LOGIN=replace-with-login
-MCP_BASE_URL=https://replace.workers.dev
-GITHUB_CLIENT_ID=replace-in-local-dev-only
-GITHUB_CLIENT_SECRET=replace-in-local-dev-only
-HEVY_API_KEY=replace-in-local-dev-only
-CONCEPT2_TOKEN=replace-in-local-dev-only
